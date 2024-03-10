@@ -1,0 +1,751 @@
+2024-03-09 11:56:07.152 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-09 11:56:07.167 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-09 11:56:07.168 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-09 11:56:07.168 +03:00 [INF] Hosting environment: Development
+2024-03-09 11:56:07.168 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-09 12:35:42.296 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-09 12:35:42.307 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-09 12:35:42.308 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-09 12:35:42.309 +03:00 [INF] Hosting environment: Development
+2024-03-09 12:35:42.309 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-09 12:37:18.437 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:18.534 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:18.553 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:18.553 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:18.606 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:18.607 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:18.607 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:18.662 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:18.662 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:18.719 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:18.720 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:18.720 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:18.775 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:18.833 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:18.996 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:18.997 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:18.997 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:19.055 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:19.221 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:19.222 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:19.275 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:19.327 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:19.385 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:19.385 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:19.440 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:19.440 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:19.597 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:19.651 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:19.651 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:19.701 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:19.702 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:19.752 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:19.753 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:19.753 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:19.802 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:19.802 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:19.855 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:20.013 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:20.014 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:20.014 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:20.066 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:20.118 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:20.118 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:20.169 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:20.169 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:20.218 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:20.219 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:20.382 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:20.382 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:20.382 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:20.547 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:20.547 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:20.547 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:20.708 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:20.708 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:20.760 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:20.760 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:20.811 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:20.812 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:20.812 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:20.864 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:20.864 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:20.864 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:20.916 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:20.967 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:20.968 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:21.020 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:21.074 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:21.126 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:21.127 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:21.127 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:21.179 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:21.180 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:21.180 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:21.229 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:21.230 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:21.230 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:21.281 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:21.281 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:21.332 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:21.487 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:21.540 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:21.591 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:21.643 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:21.643 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:21.643 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:21.694 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:21.860 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:21.860 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:21.914 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:21.914 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:22.066 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:22.067 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:22.119 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:22.120 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:22.170 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:22.170 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:22.222 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:22.223 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:22.223 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:22.388 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:22.440 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:22.440 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:22.594 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:22.594 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:22.646 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:22.646 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:22.646 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:22.697 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:22.748 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:22.748 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:22.749 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:22.800 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:22.801 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:22.853 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:22.854 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:22.854 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:22.907 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:22.908 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:22.908 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:22.962 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:22.963 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:22.963 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:23.014 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:23.067 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:23.067 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:23.121 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:23.174 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:23.174 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:23.174 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:23.226 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:23.226 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:23.226 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:23.277 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:23.278 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:23.278 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:23.329 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:23.379 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:23.431 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:23.432 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:23.483 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:23.483 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:23.536 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:23.537 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:23.588 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:23.588 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:23.588 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:23.639 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:23.640 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:23.640 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:23.692 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:23.693 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:23.743 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:23.903 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:23.904 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:23.904 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:23.956 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:23.956 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:24.007 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:24.008 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:24.008 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:24.061 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:24.113 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:24.113 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:24.113 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:24.165 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:24.165 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:24.217 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:24.268 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:24.269 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:24.269 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:24.445 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:24.446 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:24.446 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:24.497 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:24.552 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:24.553 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:24.553 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:24.603 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:24.604 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:24.769 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:24.771 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:24.771 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:24.842 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:24.842 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:24.893 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:24.894 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:24.894 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:24.947 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:24.948 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:24.948 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:24.998 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:24.999 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:24.999 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:25.051 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:25.051 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:25.104 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:25.156 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:25.157 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:25.157 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:25.208 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:25.208 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:37:25.258 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:25.309 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:25.359 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:37:25.359 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:45:04.606 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-09 12:45:04.620 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-09 12:45:04.622 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-09 12:45:04.622 +03:00 [INF] Hosting environment: Development
+2024-03-09 12:45:04.622 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-09 12:50:20.267 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-09 12:50:20.281 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-09 12:50:20.282 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-09 12:50:20.282 +03:00 [INF] Hosting environment: Development
+2024-03-09 12:50:20.282 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-09 12:50:28.947 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:28.957 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:29.140 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:29.191 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:29.200 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:29.200 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:29.247 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:29.248 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:29.296 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:29.297 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:29.297 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:29.349 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:29.350 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:29.350 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:29.398 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:29.399 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:29.447 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:29.494 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:29.656 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:29.658 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:29.658 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:29.816 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:29.817 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:29.865 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:29.914 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:29.914 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:29.962 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:29.963 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:30.009 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:30.062 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:30.062 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:30.113 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:30.113 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:30.113 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:30.162 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:30.333 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:30.333 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:30.381 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:30.428 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:30.428 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:30.476 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:30.477 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:30.477 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:30.526 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:30.526 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:30.575 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:30.575 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:30.626 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:30.627 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:30.675 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:30.724 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:30.725 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:30.725 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:30.773 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:30.773 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:30.773 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:30.822 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:30.870 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:30.870 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:30.918 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:30.967 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:30.968 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:31.015 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:31.015 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:31.066 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:31.067 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:31.067 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:31.119 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:31.172 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:31.173 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:31.173 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:31.221 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:31.271 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:31.272 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:31.320 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:31.367 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:31.368 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:31.533 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:31.583 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:31.584 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:31.584 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:31.631 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:31.632 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:31.632 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:31.678 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:31.844 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:31.845 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:31.845 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:31.893 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:31.893 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:31.940 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:31.988 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:31.989 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:31.989 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:32.036 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:32.037 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:32.037 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:32.083 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:32.131 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:32.131 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:32.131 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:32.179 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:32.180 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:32.180 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:32.227 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:32.228 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:32.228 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:32.278 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:32.278 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:32.445 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:32.445 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:32.445 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:32.493 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:32.494 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:32.494 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:32.540 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:32.541 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:32.541 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:32.589 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:32.589 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:32.589 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:32.637 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:32.637 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:32.686 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:32.733 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:32.734 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:32.734 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:32.782 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:32.782 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:32.782 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:32.830 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:32.878 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:32.879 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:32.879 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:32.926 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:32.973 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:32.974 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:32.974 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:33.135 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:33.135 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:33.135 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:33.293 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:33.293 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:33.456 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:33.456 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:33.503 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:33.503 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:33.552 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:33.600 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:33.600 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:33.648 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:33.649 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:33.696 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:33.697 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:33.697 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:33.746 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:33.898 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:33.898 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:33.898 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:33.946 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:33.947 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:33.994 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:34.041 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:34.089 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:34.255 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:34.256 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:34.303 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:34.351 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:34.352 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:34.352 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:34.400 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:34.447 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:34.494 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:34.495 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:34.542 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:34.590 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:34.590 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:34.638 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:34.638 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:34.685 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:34.686 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:34.686 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:34.859 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:34.860 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:34.860 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:34.910 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:34.960 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:34.960 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:35.009 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:35.009 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:35.057 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:35.058 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:35.105 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:35.105 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:35.105 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:35.153 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:35.154 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:35.154 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:35.202 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:35.202 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:50:35.250 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:35.419 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:50:35.419 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:30.086 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-09 12:51:30.097 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-09 12:51:30.099 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-09 12:51:30.099 +03:00 [INF] Hosting environment: Development
+2024-03-09 12:51:30.099 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-09 12:51:36.629 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:36.696 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:36.746 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:36.797 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:36.815 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:36.815 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:36.863 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:36.913 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:36.913 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:36.962 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:36.963 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:37.012 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:37.061 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:37.061 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:37.111 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:37.161 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:37.161 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:37.325 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:37.325 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:37.325 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:37.377 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:37.378 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:37.378 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:37.430 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:37.431 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:37.431 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:37.484 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:37.485 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:37.485 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:37.638 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:37.639 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:37.688 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:37.688 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:37.688 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:37.735 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:37.736 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:37.736 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:37.783 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:37.832 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:37.832 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:37.882 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:37.882 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:37.932 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:37.932 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:37.981 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:37.981 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:38.031 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:38.078 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:38.078 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:38.126 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:38.174 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:38.175 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:38.228 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:38.228 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:38.275 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:38.431 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:38.432 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:38.482 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:38.483 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:38.483 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:38.647 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:38.648 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:38.648 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:38.704 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:38.704 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:38.704 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:38.862 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:38.863 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:38.863 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:38.914 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:39.076 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:39.131 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:39.184 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:39.185 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:39.343 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:39.344 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:39.344 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:39.409 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:39.409 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:39.480 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:39.537 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:39.598 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:39.658 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:39.659 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:39.719 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:39.780 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:39.780 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:39.780 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:39.834 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:39.891 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:39.892 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:39.960 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:39.961 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:40.035 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:40.090 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:40.262 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:40.263 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:40.318 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:40.319 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:40.319 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:40.373 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:40.429 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:40.484 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:40.535 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:40.535 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:40.588 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:40.639 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:40.691 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:40.745 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:40.745 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:40.745 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:40.798 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:40.853 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:40.854 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:40.907 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:40.907 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:41.066 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:41.066 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:41.121 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:41.121 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:41.174 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:41.225 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:41.277 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:41.277 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:41.329 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:41.380 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:41.381 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:41.381 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:41.433 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:41.483 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:41.484 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:41.484 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:41.536 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:41.702 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:41.702 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:41.702 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:41.754 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:41.754 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:41.809 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:41.861 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:41.862 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:41.862 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:41.916 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:41.916 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:41.969 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:41.969 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:42.023 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:42.075 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:42.126 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:42.179 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:42.180 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:42.229 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:42.231 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:42.231 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:42.282 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:42.283 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:42.283 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:42.333 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:42.388 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:42.440 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:42.492 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:42.493 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:42.493 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:42.547 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:42.548 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:42.601 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:42.653 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:42.705 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:42.705 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:42.763 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:42.928 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:42.929 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:42.984 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:43.035 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:43.191 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:43.245 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-09 12:51:43.246 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:51:43.246 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-09 12:52:23.705 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-09 12:52:23.719 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-09 12:52:23.720 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-09 12:52:23.721 +03:00 [INF] Hosting environment: Development
+2024-03-09 12:52:23.721 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-09 15:13:19.990 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-09 15:13:20.003 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-09 15:13:20.004 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-09 15:13:20.004 +03:00 [INF] Hosting environment: Development
+2024-03-09 15:13:20.005 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-09 15:18:25.514 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-09 15:18:25.525 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-09 15:18:25.527 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-09 15:18:25.527 +03:00 [INF] Hosting environment: Development
+2024-03-09 15:18:25.527 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-09 15:37:26.595 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-09 15:37:26.609 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-09 15:37:26.610 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-09 15:37:26.611 +03:00 [INF] Hosting environment: Development
+2024-03-09 15:37:26.611 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-09 15:38:46.001 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-09 15:38:46.012 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-09 15:38:46.013 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-09 15:38:46.013 +03:00 [INF] Hosting environment: Development
+2024-03-09 15:38:46.013 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-09 15:39:08.433 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-09 15:39:08.444 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-09 15:39:08.445 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-09 15:39:08.445 +03:00 [INF] Hosting environment: Development
+2024-03-09 15:39:08.445 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-09 16:13:44.423 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-09 16:13:44.437 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-09 16:13:44.439 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-09 16:13:44.439 +03:00 [INF] Hosting environment: Development
+2024-03-09 16:13:44.439 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-09 16:15:07.481 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-09 16:15:07.495 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-09 16:15:07.496 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-09 16:15:07.496 +03:00 [INF] Hosting environment: Development
+2024-03-09 16:15:07.497 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-09 16:15:35.854 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-09 16:15:35.865 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-09 16:15:35.866 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-09 16:15:35.867 +03:00 [INF] Hosting environment: Development
+2024-03-09 16:15:35.867 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-09 16:16:05.238 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-09 16:16:05.249 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-09 16:16:05.250 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-09 16:16:05.250 +03:00 [INF] Hosting environment: Development
+2024-03-09 16:16:05.250 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-09 16:23:53.789 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-09 16:23:53.800 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-09 16:23:53.802 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-09 16:23:53.802 +03:00 [INF] Hosting environment: Development
+2024-03-09 16:23:53.802 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-09 16:28:27.074 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-09 16:28:27.085 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-09 16:28:27.086 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-09 16:28:27.087 +03:00 [INF] Hosting environment: Development
+2024-03-09 16:28:27.087 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-09 14:02:02.972 +00:00 [INF] Now listening on: http://[::]:80
+2024-03-09 14:02:02.990 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-09 14:02:02.990 +00:00 [INF] Hosting environment: Development
+2024-03-09 14:02:02.990 +00:00 [INF] Content root path: /app/
+2024-03-09 14:05:50.865 +00:00 [INF] Now listening on: http://[::]:80
+2024-03-09 14:05:50.883 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-09 14:05:50.884 +00:00 [INF] Hosting environment: Development
+2024-03-09 14:05:50.884 +00:00 [INF] Content root path: /app/
+2024-03-09 14:26:51.735 +00:00 [INF] Now listening on: http://[::]:80
+2024-03-09 14:26:51.755 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-09 14:26:51.756 +00:00 [INF] Hosting environment: Development
+2024-03-09 14:26:51.756 +00:00 [INF] Content root path: /app/
+2024-03-09 14:27:00.087 +00:00 [INF] Now listening on: http://[::]:80
+2024-03-09 14:27:00.110 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-09 14:27:00.110 +00:00 [INF] Hosting environment: Development
+2024-03-09 14:27:00.110 +00:00 [INF] Content root path: /app/
+2024-03-09 14:29:40.493 +00:00 [INF] Application is shutting down...
+2024-03-09 14:46:01.890 +00:00 [INF] Now listening on: http://[::]:80
+2024-03-09 14:46:01.908 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-09 14:46:01.908 +00:00 [INF] Hosting environment: Development
+2024-03-09 14:46:01.908 +00:00 [INF] Content root path: /app/
+2024-03-09 15:02:29.342 +00:00 [INF] Now listening on: http://[::]:80
+2024-03-09 15:02:29.359 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-09 15:02:29.359 +00:00 [INF] Hosting environment: Development
+2024-03-09 15:02:29.359 +00:00 [INF] Content root path: /app/
+2024-03-09 15:04:21.294 +00:00 [INF] Now listening on: http://[::]:80
+2024-03-09 15:04:21.310 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-09 15:04:21.310 +00:00 [INF] Hosting environment: Development
+2024-03-09 15:04:21.310 +00:00 [INF] Content root path: /app/
+2024-03-09 15:17:17.813 +00:00 [INF] Now listening on: http://[::]:80
+2024-03-09 15:17:17.828 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-09 15:17:17.828 +00:00 [INF] Hosting environment: Development
+2024-03-09 15:17:17.828 +00:00 [INF] Content root path: /app/
+2024-03-09 15:27:53.783 +00:00 [INF] Now listening on: http://[::]:80
+2024-03-09 15:27:53.802 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-09 15:27:53.802 +00:00 [INF] Hosting environment: Development
+2024-03-09 15:27:53.803 +00:00 [INF] Content root path: /app/
+2024-03-09 16:14:59.567 +00:00 [INF] Now listening on: http://[::]:80
+2024-03-09 16:14:59.591 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-09 16:14:59.591 +00:00 [INF] Hosting environment: Development
+2024-03-09 16:14:59.592 +00:00 [INF] Content root path: /app/
+2024-03-09 16:16:07.702 +00:00 [INF] Now listening on: http://[::]:80
+2024-03-09 16:16:07.720 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-09 16:16:07.721 +00:00 [INF] Hosting environment: Development
+2024-03-09 16:16:07.721 +00:00 [INF] Content root path: /app/
+2024-03-09 16:18:10.215 +00:00 [INF] Now listening on: http://[::]:80
+2024-03-09 16:18:10.232 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-09 16:18:10.232 +00:00 [INF] Hosting environment: Development
+2024-03-09 16:18:10.233 +00:00 [INF] Content root path: /app/
+2024-03-09 16:18:12.173 +00:00 [WRN] Failed to determine the https port for redirect.
+2024-03-09 16:23:28.658 +00:00 [INF] Now listening on: http://[::]:80
+2024-03-09 16:23:28.674 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-09 16:23:28.674 +00:00 [INF] Hosting environment: Development
+2024-03-09 16:23:28.674 +00:00 [INF] Content root path: /app/
+2024-03-09 16:23:53.329 +00:00 [WRN] Failed to determine the https port for redirect.
+2024-03-09 16:24:28.721 +00:00 [INF] Now listening on: http://[::]:80
+2024-03-09 16:24:28.749 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-09 16:24:28.750 +00:00 [INF] Hosting environment: Development
+2024-03-09 16:24:28.750 +00:00 [INF] Content root path: /app/
+2024-03-09 16:24:48.543 +00:00 [INF] Application is shutting down...
+2024-03-09 16:25:22.248 +00:00 [INF] Now listening on: http://[::]:80
+2024-03-09 16:25:22.268 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-09 16:25:22.268 +00:00 [INF] Hosting environment: Development
+2024-03-09 16:25:22.269 +00:00 [INF] Content root path: /app/
+2024-03-09 16:27:31.021 +00:00 [INF] Now listening on: http://[::]:80
+2024-03-09 16:27:31.044 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-09 16:27:31.045 +00:00 [INF] Hosting environment: Development
+2024-03-09 16:27:31.045 +00:00 [INF] Content root path: /app/
+2024-03-09 16:27:42.966 +00:00 [WRN] Failed to determine the https port for redirect.
+2024-03-09 16:29:57.776 +00:00 [INF] Now listening on: http://[::]:80
+2024-03-09 16:29:57.798 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-09 16:29:57.798 +00:00 [INF] Hosting environment: Development
+2024-03-09 16:29:57.798 +00:00 [INF] Content root path: /app/
+2024-03-09 16:31:07.818 +00:00 [WRN] Failed to determine the https port for redirect.
+2024-03-09 20:14:04.191 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-09 20:14:04.205 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-09 20:14:04.207 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-09 20:14:04.207 +03:00 [INF] Hosting environment: Development
+2024-03-09 20:14:04.207 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest.Web\

@@ -1,0 +1,459 @@
+2024-03-06 11:13:44.112 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 11:13:44.127 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 11:13:44.129 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 11:13:44.130 +03:00 [INF] Hosting environment: Development
+2024-03-06 11:13:44.130 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 11:17:23.650 +03:00 [INF] Application is shutting down...
+2024-03-06 11:27:28.796 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 11:27:28.813 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 11:27:28.817 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 11:27:28.817 +03:00 [INF] Hosting environment: Development
+2024-03-06 11:27:28.817 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 11:29:24.579 +03:00 [INF] Application is shutting down...
+2024-03-06 11:29:57.683 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 11:29:57.697 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 11:29:57.700 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 11:29:57.700 +03:00 [INF] Hosting environment: Development
+2024-03-06 11:29:57.700 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 12:00:44.411 +03:00 [INF] Application is shutting down...
+2024-03-06 12:00:46.320 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 12:00:46.335 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 12:00:46.338 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 12:00:46.338 +03:00 [INF] Hosting environment: Development
+2024-03-06 12:00:46.338 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 12:01:39.469 +03:00 [INF] Application is shutting down...
+2024-03-06 12:04:04.129 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 12:04:04.147 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 12:04:04.149 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 12:04:04.149 +03:00 [INF] Hosting environment: Development
+2024-03-06 12:04:04.149 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 12:06:11.700 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 12:06:11.711 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 12:06:11.712 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 12:06:11.712 +03:00 [INF] Hosting environment: Development
+2024-03-06 12:06:11.712 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 12:06:50.246 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 12:06:50.261 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 12:06:50.263 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 12:06:50.263 +03:00 [INF] Hosting environment: Development
+2024-03-06 12:06:50.263 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 12:07:07.463 +03:00 [INF] Application is shutting down...
+2024-03-06 12:07:09.520 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 12:07:09.537 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 12:07:09.540 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 12:07:09.540 +03:00 [INF] Hosting environment: Development
+2024-03-06 12:07:09.540 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 12:07:20.518 +03:00 [INF] Application is shutting down...
+2024-03-06 12:07:38.563 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 12:07:38.578 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 12:07:38.581 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 12:07:38.581 +03:00 [INF] Hosting environment: Development
+2024-03-06 12:07:38.581 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 12:07:52.940 +03:00 [INF] Application is shutting down...
+2024-03-06 12:07:56.816 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 12:07:56.831 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 12:07:56.833 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 12:07:56.833 +03:00 [INF] Hosting environment: Development
+2024-03-06 12:07:56.833 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 12:11:11.320 +03:00 [INF] Application is shutting down...
+2024-03-06 12:11:40.759 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 12:11:40.774 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 12:11:40.777 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 12:11:40.777 +03:00 [INF] Hosting environment: Development
+2024-03-06 12:11:40.777 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 12:12:16.431 +03:00 [INF] Application is shutting down...
+2024-03-06 12:12:26.447 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 12:12:26.462 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 12:12:26.464 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 12:12:26.464 +03:00 [INF] Hosting environment: Development
+2024-03-06 12:12:26.464 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 12:13:04.325 +03:00 [INF] Application is shutting down...
+2024-03-06 12:13:23.003 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 12:13:23.018 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 12:13:23.020 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 12:13:23.020 +03:00 [INF] Hosting environment: Development
+2024-03-06 12:13:23.020 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 12:13:36.112 +03:00 [INF] Application is shutting down...
+2024-03-06 15:31:32.367 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 15:31:32.382 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 15:31:32.384 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 15:31:32.385 +03:00 [INF] Hosting environment: Development
+2024-03-06 15:31:32.385 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 15:32:18.199 +03:00 [INF] Application is shutting down...
+2024-03-06 15:32:22.627 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 15:32:22.642 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 15:32:22.644 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 15:32:22.644 +03:00 [INF] Hosting environment: Development
+2024-03-06 15:32:22.644 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 15:33:47.550 +03:00 [INF] Application is shutting down...
+2024-03-06 16:00:17.384 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 16:00:17.401 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 16:00:17.403 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 16:00:17.403 +03:00 [INF] Hosting environment: Development
+2024-03-06 16:00:17.403 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 16:00:17.839 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/Patient" for actions - PatientTest.Controllers.PatientController.GetAll (PatientTest.Web),PatientTest.Controllers.PatientController.GetById (PatientTest.Web). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2024-03-06 16:00:34.503 +03:00 [INF] Application is shutting down...
+2024-03-06 16:00:42.202 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 16:00:42.212 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 16:00:42.214 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 16:00:42.214 +03:00 [INF] Hosting environment: Development
+2024-03-06 16:00:42.214 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 16:00:43.037 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/Patient" for actions - PatientTest.Controllers.PatientController.GetAll (PatientTest.Web),PatientTest.Controllers.PatientController.GetById (PatientTest.Web). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2024-03-06 16:01:05.693 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 16:01:05.707 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 16:01:05.709 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 16:01:05.709 +03:00 [INF] Hosting environment: Development
+2024-03-06 16:01:05.709 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 16:01:06.477 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/Patient" for actions - PatientTest.Controllers.PatientController.GetAll (PatientTest.Web),PatientTest.Controllers.PatientController.GetById (PatientTest.Web). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2024-03-06 16:01:09.798 +03:00 [INF] Application is shutting down...
+2024-03-06 16:02:53.201 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 16:02:53.212 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 16:02:53.213 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 16:02:53.213 +03:00 [INF] Hosting environment: Development
+2024-03-06 16:02:53.213 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 16:02:55.904 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/Patient" for actions - PatientTest.Controllers.PatientController.GetAll (PatientTest.Web),PatientTest.Controllers.PatientController.GetById (PatientTest.Web). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2024-03-06 16:04:59.735 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 16:04:59.749 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 16:04:59.751 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 16:04:59.751 +03:00 [INF] Hosting environment: Development
+2024-03-06 16:04:59.751 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 16:06:50.816 +03:00 [INF] Application is shutting down...
+2024-03-06 16:06:54.270 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 16:06:54.284 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 16:06:54.286 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 16:06:54.286 +03:00 [INF] Hosting environment: Development
+2024-03-06 16:06:54.286 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 16:08:43.687 +03:00 [INF] Application is shutting down...
+2024-03-06 16:08:46.117 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 16:08:46.131 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 16:08:46.133 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 16:08:46.134 +03:00 [INF] Hosting environment: Development
+2024-03-06 16:08:46.134 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 16:10:05.027 +03:00 [INF] Application is shutting down...
+2024-03-06 16:10:09.168 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 16:10:09.183 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 16:10:09.185 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 16:10:09.185 +03:00 [INF] Hosting environment: Development
+2024-03-06 16:10:09.185 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 16:11:29.381 +03:00 [INF] Application is shutting down...
+2024-03-06 16:11:32.626 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 16:11:32.644 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 16:11:32.646 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 16:11:32.647 +03:00 [INF] Hosting environment: Development
+2024-03-06 16:11:32.647 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 16:11:39.558 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentException: Expression 'dist => dist.Name.Use' must resolve to top-level member and not any child object's properties. You can use ForPath, a custom resolver on the child type or the AfterMap option instead. (Parameter 'lambdaExpression')
+   at AutoMapper.Internal.ReflectionHelper.FindProperty(LambdaExpression lambdaExpression)
+   at AutoMapper.Configuration.MappingExpression`2.ForMember[TMember](Expression`1 destinationMember, Action`1 memberOptions)
+   at PatientTest.Core.Utilits.AutoMapperDTO.<>c.<AutoMapPatient>b__0_0(IMapperConfigurationExpression config) in D:\Development\PatientTest\PatientTest\PatientTest.Core\Utilits\AutoMapperDTO.cs:line 14
+   at AutoMapper.MapperConfiguration.Build(Action`1 configure)
+   at AutoMapper.MapperConfiguration..ctor(Action`1 configure)
+   at PatientTest.Core.Utilits.AutoMapperDTO.AutoMapPatient(IQueryable`1 queryable) in D:\Development\PatientTest\PatientTest\PatientTest.Core\Utilits\AutoMapperDTO.cs:line 12
+   at PatientTest.Core.Services.PatientService.GetById(Guid id) in D:\Development\PatientTest\PatientTest\PatientTest.Core\Services\PatientService.cs:line 16
+   at PatientTest.Controllers.PatientController.GetById(Guid id) in D:\Development\PatientTest\PatientTest\PatientTest.Web\Controllers\PatientController.cs:line 26
+   at lambda_method7(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2024-03-06 16:11:57.990 +03:00 [INF] Application is shutting down...
+2024-03-06 16:12:01.046 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 16:12:01.061 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 16:12:01.063 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 16:12:01.063 +03:00 [INF] Hosting environment: Development
+2024-03-06 16:12:01.063 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 16:13:58.944 +03:00 [INF] Application is shutting down...
+2024-03-06 16:15:45.906 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 16:15:45.922 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 16:15:45.925 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 16:15:45.925 +03:00 [INF] Hosting environment: Development
+2024-03-06 16:15:45.925 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 16:16:36.686 +03:00 [INF] Application is shutting down...
+2024-03-06 16:16:39.690 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 16:16:39.711 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 16:16:39.714 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 16:16:39.714 +03:00 [INF] Hosting environment: Development
+2024-03-06 16:16:39.714 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 16:21:40.976 +03:00 [INF] Application is shutting down...
+2024-03-06 16:22:34.681 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 16:22:34.695 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 16:22:34.697 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 16:22:34.697 +03:00 [INF] Hosting environment: Development
+2024-03-06 16:22:34.697 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 16:23:32.722 +03:00 [INF] Application is shutting down...
+2024-03-06 16:31:07.766 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 16:31:07.783 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 16:31:07.786 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 16:31:07.786 +03:00 [INF] Hosting environment: Development
+2024-03-06 16:31:07.786 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 16:33:21.947 +03:00 [INF] Application is shutting down...
+2024-03-06 16:33:33.016 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 16:33:33.035 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 16:33:33.036 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 16:33:33.036 +03:00 [INF] Hosting environment: Development
+2024-03-06 16:33:33.036 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 16:39:52.205 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 16:39:52.221 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 16:39:52.223 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 16:39:52.223 +03:00 [INF] Hosting environment: Development
+2024-03-06 16:39:52.223 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 16:42:07.430 +03:00 [INF] Application is shutting down...
+2024-03-06 16:42:39.735 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 16:42:39.750 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 16:42:39.752 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 16:42:39.752 +03:00 [INF] Hosting environment: Development
+2024-03-06 16:42:39.752 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 16:43:14.737 +03:00 [INF] Application is shutting down...
+2024-03-06 16:43:35.461 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 16:43:35.479 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 16:43:35.482 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 16:43:35.482 +03:00 [INF] Hosting environment: Development
+2024-03-06 16:43:35.482 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 16:43:38.950 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Missing map from PatientTest.Core.Entities.Patient to PatientTest.Core.DTOs.PatientDTO. Create using CreateMap<Patient, PatientDTO>.
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.PolymorphicMaps(ProjectionRequest& request)
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.CreateProjection(ProjectionRequest request)
+   at AutoMapper.Internal.LockingConcurrentDictionary`2.<>c__DisplayClass2_1.<.ctor>b__1()
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+   at System.Lazy`1.ExecutionAndPublication(LazyHelper executionAndPublication, Boolean useDefaultConstructor)
+   at System.Lazy`1.CreateValue()
+   at System.Lazy`1.get_Value()
+   at AutoMapper.Internal.LockingConcurrentDictionary`2.GetOrAdd(TKey& key)
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.GetProjection(Type sourceType, Type destinationType, Object parameters, MemberPath[] membersToExpand)
+   at AutoMapper.QueryableExtensions.Extensions.ToCore(IQueryable source, Type destinationType, IConfigurationProvider configuration, Object parameters, IEnumerable`1 memberPathsToExpand)
+   at AutoMapper.QueryableExtensions.Extensions.ToCore[TResult](IQueryable source, IConfigurationProvider configuration, Object parameters, IEnumerable`1 memberPathsToExpand)
+   at AutoMapper.QueryableExtensions.Extensions.ProjectTo[TDestination](IQueryable source, IConfigurationProvider configuration, IDictionary`2 parameters, String[] membersToExpand)
+   at AutoMapper.Mapper.ProjectTo[TDestination](IQueryable source, IDictionary`2 parameters, String[] membersToExpand)
+   at PatientTest.Core.Utilits.AutoMapperDTO.AutoMapPatient(IQueryable`1 queryable) in D:\Development\PatientTest\PatientTest\PatientTest.Core\Utilits\AutoMapperDTO.cs:line 42
+   at PatientTest.Core.Services.PatientService.GetById(Guid id) in D:\Development\PatientTest\PatientTest\PatientTest.Core\Services\PatientService.cs:line 16
+   at PatientTest.Controllers.PatientController.GetById(Guid id) in D:\Development\PatientTest\PatientTest\PatientTest.Web\Controllers\PatientController.cs:line 26
+   at lambda_method7(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2024-03-06 16:44:19.316 +03:00 [INF] Application is shutting down...
+2024-03-06 16:44:34.938 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 16:44:34.955 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 16:44:34.957 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 16:44:34.957 +03:00 [INF] Hosting environment: Development
+2024-03-06 16:44:34.957 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 16:44:43.437 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Missing map from PatientTest.Core.Entities.Patient to PatientTest.Core.DTOs.PatientDTO. Create using CreateMap<Patient, PatientDTO>.
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.PolymorphicMaps(ProjectionRequest& request)
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.CreateProjection(ProjectionRequest request)
+   at AutoMapper.Internal.LockingConcurrentDictionary`2.<>c__DisplayClass2_1.<.ctor>b__1()
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+   at System.Lazy`1.ExecutionAndPublication(LazyHelper executionAndPublication, Boolean useDefaultConstructor)
+   at System.Lazy`1.CreateValue()
+   at System.Lazy`1.get_Value()
+   at AutoMapper.Internal.LockingConcurrentDictionary`2.GetOrAdd(TKey& key)
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.GetProjection(Type sourceType, Type destinationType, Object parameters, MemberPath[] membersToExpand)
+   at AutoMapper.QueryableExtensions.Extensions.ToCore(IQueryable source, Type destinationType, IConfigurationProvider configuration, Object parameters, IEnumerable`1 memberPathsToExpand)
+   at AutoMapper.QueryableExtensions.Extensions.ToCore[TResult](IQueryable source, IConfigurationProvider configuration, Object parameters, IEnumerable`1 memberPathsToExpand)
+   at AutoMapper.QueryableExtensions.Extensions.ProjectTo[TDestination](IQueryable source, IConfigurationProvider configuration, IDictionary`2 parameters, String[] membersToExpand)
+   at AutoMapper.Mapper.ProjectTo[TDestination](IQueryable source, IDictionary`2 parameters, String[] membersToExpand)
+   at PatientTest.Core.Utilits.AutoMapperDTO.AutoMapPatient(IQueryable`1 queryable) in D:\Development\PatientTest\PatientTest\PatientTest.Core\Utilits\AutoMapperDTO.cs:line 42
+   at PatientTest.Core.Services.PatientService.GetById(Guid id) in D:\Development\PatientTest\PatientTest\PatientTest.Core\Services\PatientService.cs:line 16
+   at PatientTest.Controllers.PatientController.GetById(Guid id) in D:\Development\PatientTest\PatientTest\PatientTest.Web\Controllers\PatientController.cs:line 26
+   at lambda_method7(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2024-03-06 16:44:58.074 +03:00 [INF] Application is shutting down...
+2024-03-06 16:45:15.414 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 16:45:15.429 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 16:45:15.432 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 16:45:15.432 +03:00 [INF] Hosting environment: Development
+2024-03-06 16:45:15.432 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 16:49:49.663 +03:00 [INF] Application is shutting down...
+2024-03-06 16:56:27.873 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 16:56:27.892 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 16:56:27.895 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 16:56:27.895 +03:00 [INF] Hosting environment: Development
+2024-03-06 16:56:27.895 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 16:57:19.507 +03:00 [INF] Application is shutting down...
+2024-03-06 16:57:34.869 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 16:57:34.884 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 16:57:34.886 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 16:57:34.886 +03:00 [INF] Hosting environment: Development
+2024-03-06 16:57:34.886 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 17:04:56.187 +03:00 [INF] Application is shutting down...
+2024-03-06 17:04:59.631 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 17:04:59.646 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 17:04:59.649 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 17:04:59.649 +03:00 [INF] Hosting environment: Development
+2024-03-06 17:04:59.650 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 17:05:44.088 +03:00 [INF] Application is shutting down...
+2024-03-06 17:07:19.220 +03:00 [ERR] Failed executing DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+ALTER TABLE "Given" ADD CONSTRAINT "FK_Given_Patient_PatientId" FOREIGN KEY ("PatientId") REFERENCES "Patient" ("Id") ON DELETE CASCADE;
+2024-03-06 17:07:26.984 +03:00 [ERR] Failed executing DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+ALTER TABLE "Given" ADD CONSTRAINT "FK_Given_Patient_PatientId" FOREIGN KEY ("PatientId") REFERENCES "Patient" ("Id") ON DELETE CASCADE;
+2024-03-06 17:07:50.532 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 17:07:50.546 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 17:07:50.548 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 17:07:50.548 +03:00 [INF] Hosting environment: Development
+2024-03-06 17:07:50.548 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 17:10:44.129 +03:00 [INF] Application is shutting down...
+2024-03-06 17:16:51.620 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 17:16:51.634 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 17:16:51.636 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 17:16:51.637 +03:00 [INF] Hosting environment: Development
+2024-03-06 17:16:51.637 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 17:18:07.054 +03:00 [INF] Application is shutting down...
+2024-03-06 17:18:10.894 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 17:18:10.909 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 17:18:10.912 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 17:18:10.913 +03:00 [INF] Hosting environment: Development
+2024-03-06 17:18:10.913 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 17:18:43.490 +03:00 [INF] Application is shutting down...
+2024-03-06 17:18:58.859 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 17:18:58.874 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 17:18:58.876 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 17:18:58.876 +03:00 [INF] Hosting environment: Development
+2024-03-06 17:18:58.876 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 17:19:17.657 +03:00 [INF] Application is shutting down...
+2024-03-06 17:24:24.082 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 17:24:24.097 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 17:24:24.099 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 17:24:24.099 +03:00 [INF] Hosting environment: Development
+2024-03-06 17:24:24.099 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 17:32:36.005 +03:00 [INF] Application is shutting down...
+2024-03-06 17:32:51.244 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 17:32:51.260 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 17:32:51.262 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 17:32:51.262 +03:00 [INF] Hosting environment: Development
+2024-03-06 17:32:51.262 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 17:34:40.964 +03:00 [INF] Application is shutting down...
+2024-03-06 17:38:06.429 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 17:38:06.444 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 17:38:06.446 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 17:38:06.446 +03:00 [INF] Hosting environment: Development
+2024-03-06 17:38:06.446 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 17:38:54.263 +03:00 [INF] Application is shutting down...
+2024-03-06 17:50:26.069 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 17:50:26.080 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 17:50:26.081 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 17:50:26.081 +03:00 [INF] Hosting environment: Development
+2024-03-06 17:50:26.081 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 17:51:07.465 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 17:51:07.476 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 17:51:07.477 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 17:51:07.477 +03:00 [INF] Hosting environment: Development
+2024-03-06 17:51:07.477 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 17:51:41.363 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 17:51:41.374 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 17:51:41.375 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 17:51:41.375 +03:00 [INF] Hosting environment: Development
+2024-03-06 17:51:41.375 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 17:53:26.697 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 17:53:26.707 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 17:53:26.708 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 17:53:26.708 +03:00 [INF] Hosting environment: Development
+2024-03-06 17:53:26.708 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 17:57:06.109 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 17:57:06.120 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 17:57:06.121 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 17:57:06.121 +03:00 [INF] Hosting environment: Development
+2024-03-06 17:57:06.121 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 17:57:10.467 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-06 17:57:34.083 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 17:57:34.093 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 17:57:34.094 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 17:57:34.094 +03:00 [INF] Hosting environment: Development
+2024-03-06 17:57:34.094 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 17:57:37.681 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-06 19:30:53.242 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 19:30:53.258 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 19:30:53.261 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 19:30:53.261 +03:00 [INF] Hosting environment: Development
+2024-03-06 19:30:53.261 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 19:31:16.151 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-06 19:31:16.175 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-06 19:31:16.175 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-06 19:31:55.935 +03:00 [INF] Application is shutting down...
+2024-03-06 19:34:54.724 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 19:34:54.742 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 19:34:54.745 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 19:34:54.745 +03:00 [INF] Hosting environment: Development
+2024-03-06 19:34:54.745 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 19:35:42.909 +03:00 [INF] Application is shutting down...
+2024-03-06 19:37:47.476 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 19:37:47.491 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 19:37:47.493 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 19:37:47.493 +03:00 [INF] Hosting environment: Development
+2024-03-06 19:37:47.493 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 19:38:03.533 +03:00 [INF] Application is shutting down...
+2024-03-06 19:38:43.244 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-06 19:38:43.259 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-06 19:38:43.261 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-06 19:38:43.261 +03:00 [INF] Hosting environment: Development
+2024-03-06 19:38:43.261 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-06 19:38:49.587 +03:00 [INF] Deleting: PatientTest.Core.Entities.Patient
+2024-03-06 19:38:49.593 +03:00 [INF] Deleted
+2024-03-06 19:38:59.874 +03:00 [INF] Application is shutting down...

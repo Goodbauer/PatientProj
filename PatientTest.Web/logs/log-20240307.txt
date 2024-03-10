@@ -1,0 +1,322 @@
+2024-03-07 19:47:28.119 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-07 19:47:28.160 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-07 19:47:28.163 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-07 19:47:28.163 +03:00 [INF] Hosting environment: Development
+2024-03-07 19:47:28.163 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-07 19:49:37.104 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-07 19:49:37.116 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-07 19:49:37.117 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-07 19:49:37.117 +03:00 [INF] Hosting environment: Development
+2024-03-07 19:49:37.117 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-07 19:51:25.666 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-07 19:51:25.676 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-07 19:51:25.677 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-07 19:51:25.677 +03:00 [INF] Hosting environment: Development
+2024-03-07 19:51:25.677 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-07 20:13:41.277 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-07 20:13:41.291 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-07 20:13:41.292 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-07 20:13:41.293 +03:00 [INF] Hosting environment: Development
+2024-03-07 20:13:41.293 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-07 20:17:47.655 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-07 20:17:47.667 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-07 20:17:47.668 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-07 20:17:47.668 +03:00 [INF] Hosting environment: Development
+2024-03-07 20:17:47.668 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-07 20:18:33.491 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-07 20:18:33.502 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-07 20:18:33.503 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-07 20:18:33.503 +03:00 [INF] Hosting environment: Development
+2024-03-07 20:18:33.503 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-07 20:27:58.565 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-07 20:27:58.614 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-07 20:27:58.616 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-07 20:27:58.616 +03:00 [INF] Hosting environment: Development
+2024-03-07 20:27:58.616 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-07 20:28:05.848 +03:00 [INF] Deleted: PatientTest.Core.Entities.Given
+2024-03-07 20:28:05.866 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-07 20:29:08.877 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-07 20:29:08.889 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-07 20:29:08.890 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-07 20:29:08.890 +03:00 [INF] Hosting environment: Development
+2024-03-07 20:29:08.890 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-07 20:30:27.661 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-07 20:30:27.674 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-07 20:30:27.675 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-07 20:30:27.675 +03:00 [INF] Hosting environment: Development
+2024-03-07 20:30:27.675 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-07 20:32:38.156 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-07 20:32:38.169 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-07 20:32:38.171 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-07 20:32:38.171 +03:00 [INF] Hosting environment: Development
+2024-03-07 20:32:38.171 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-07 20:33:09.160 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-07 20:33:09.172 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-07 20:33:09.174 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-07 20:33:09.174 +03:00 [INF] Hosting environment: Development
+2024-03-07 20:33:09.174 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-07 20:33:39.516 +03:00 [INF] Deleted: PatientTest.Core.Entities.Given
+2024-03-07 20:33:39.517 +03:00 [INF] Deleted: PatientTest.Core.Entities.Given
+2024-03-07 20:33:39.532 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-07 20:33:39.532 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-07 20:33:39.577 +03:00 [INF] Update: PatientTest.Core.Entities.Patient
+2024-03-07 20:33:39.584 +03:00 [INF] Updated to : PatientTest.Core.Entities.Patient
+2024-03-07 20:59:11.322 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-07 20:59:11.334 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-07 20:59:11.336 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-07 20:59:11.336 +03:00 [INF] Hosting environment: Development
+2024-03-07 20:59:11.336 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-07 21:02:37.410 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-07 21:02:37.421 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-07 21:02:37.422 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-07 21:02:37.422 +03:00 [INF] Hosting environment: Development
+2024-03-07 21:02:37.422 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-07 21:02:43.157 +03:00 [ERR] Failed executing DbCommand (0ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = Boolean), @p2='?' (DbType = DateTime), @p3='?', @p4='?' (DbType = Guid), @p5='?'], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "Patient" ("Id", "Active", "BirthDate", "Family", "GenderId", "Use")
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5);
+2024-03-07 21:02:43.182 +03:00 [ERR] An exception occurred in the database while saving changes for context type 'PatientTest.Infrastructure.Context'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23503: INSERT или UPDATE в таблице "Patient" нарушает ограничение внешнего ключа "FK_Patient_Genders_GenderId"
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|233_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult()
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+  Exception data:
+    Severity: ОШИБКА
+    SqlState: 23503
+    MessageText: INSERT или UPDATE в таблице "Patient" нарушает ограничение внешнего ключа "FK_Patient_Genders_GenderId"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: Patient
+    ConstraintName: FK_Patient_Genders_GenderId
+    File: ri_triggers.c
+    Line: 2619
+    Routine: ri_ReportViolation
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.<>c.<SaveChanges>b__107_0(DbContext _, ValueTuple`2 t)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23503: INSERT или UPDATE в таблице "Patient" нарушает ограничение внешнего ключа "FK_Patient_Genders_GenderId"
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|233_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult()
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+  Exception data:
+    Severity: ОШИБКА
+    SqlState: 23503
+    MessageText: INSERT или UPDATE в таблице "Patient" нарушает ограничение внешнего ключа "FK_Patient_Genders_GenderId"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: Patient
+    ConstraintName: FK_Patient_Genders_GenderId
+    File: ri_triggers.c
+    Line: 2619
+    Routine: ri_ReportViolation
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.<>c.<SaveChanges>b__107_0(DbContext _, ValueTuple`2 t)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+2024-03-07 21:03:53.697 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-07 21:03:53.707 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-07 21:03:53.708 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-07 21:03:53.708 +03:00 [INF] Hosting environment: Development
+2024-03-07 21:03:53.708 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-07 21:04:04.113 +03:00 [ERR] Failed executing DbCommand (0ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = Boolean), @p2='?' (DbType = DateTime), @p3='?', @p4='?' (DbType = Guid), @p5='?'], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "Patient" ("Id", "Active", "BirthDate", "Family", "GenderId", "Use")
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5);
+2024-03-07 21:04:04.138 +03:00 [ERR] An exception occurred in the database while saving changes for context type 'PatientTest.Infrastructure.Context'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23503: INSERT или UPDATE в таблице "Patient" нарушает ограничение внешнего ключа "FK_Patient_Genders_GenderId"
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|233_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult()
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+  Exception data:
+    Severity: ОШИБКА
+    SqlState: 23503
+    MessageText: INSERT или UPDATE в таблице "Patient" нарушает ограничение внешнего ключа "FK_Patient_Genders_GenderId"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: Patient
+    ConstraintName: FK_Patient_Genders_GenderId
+    File: ri_triggers.c
+    Line: 2619
+    Routine: ri_ReportViolation
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.<>c.<SaveChanges>b__107_0(DbContext _, ValueTuple`2 t)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23503: INSERT или UPDATE в таблице "Patient" нарушает ограничение внешнего ключа "FK_Patient_Genders_GenderId"
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|233_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult()
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+  Exception data:
+    Severity: ОШИБКА
+    SqlState: 23503
+    MessageText: INSERT или UPDATE в таблице "Patient" нарушает ограничение внешнего ключа "FK_Patient_Genders_GenderId"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: Patient
+    ConstraintName: FK_Patient_Genders_GenderId
+    File: ri_triggers.c
+    Line: 2619
+    Routine: ri_ReportViolation
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.<>c.<SaveChanges>b__107_0(DbContext _, ValueTuple`2 t)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+2024-03-07 21:07:07.204 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-07 21:07:07.217 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-07 21:07:07.219 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-07 21:07:07.219 +03:00 [INF] Hosting environment: Development
+2024-03-07 21:07:07.219 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-07 21:07:13.731 +03:00 [ERR] Failed executing DbCommand (0ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = Boolean), @p2='?' (DbType = DateTime), @p3='?', @p4='?' (DbType = Guid), @p5='?'], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "Patient" ("Id", "Active", "BirthDate", "Family", "GenderId", "Use")
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5);
+2024-03-07 21:07:13.761 +03:00 [ERR] An exception occurred in the database while saving changes for context type 'PatientTest.Infrastructure.Context'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23503: INSERT или UPDATE в таблице "Patient" нарушает ограничение внешнего ключа "FK_Patient_Genders_GenderId"
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|233_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult()
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+  Exception data:
+    Severity: ОШИБКА
+    SqlState: 23503
+    MessageText: INSERT или UPDATE в таблице "Patient" нарушает ограничение внешнего ключа "FK_Patient_Genders_GenderId"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: Patient
+    ConstraintName: FK_Patient_Genders_GenderId
+    File: ri_triggers.c
+    Line: 2619
+    Routine: ri_ReportViolation
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.<>c.<SaveChanges>b__107_0(DbContext _, ValueTuple`2 t)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23503: INSERT или UPDATE в таблице "Patient" нарушает ограничение внешнего ключа "FK_Patient_Genders_GenderId"
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|233_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult()
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+  Exception data:
+    Severity: ОШИБКА
+    SqlState: 23503
+    MessageText: INSERT или UPDATE в таблице "Patient" нарушает ограничение внешнего ключа "FK_Patient_Genders_GenderId"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: Patient
+    ConstraintName: FK_Patient_Genders_GenderId
+    File: ri_triggers.c
+    Line: 2619
+    Routine: ri_ReportViolation
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.<>c.<SaveChanges>b__107_0(DbContext _, ValueTuple`2 t)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+2024-03-07 21:07:32.083 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-07 21:07:32.097 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-07 21:07:32.098 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-07 21:07:32.098 +03:00 [INF] Hosting environment: Development
+2024-03-07 21:07:32.098 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-07 21:08:16.173 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-07 21:08:16.186 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-07 21:08:16.187 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-07 21:08:16.187 +03:00 [INF] Hosting environment: Development
+2024-03-07 21:08:16.187 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest\PatientTest.Web\
+2024-03-07 21:08:35.638 +03:00 [INF] Created: PatientTest.Core.Entities.Patient

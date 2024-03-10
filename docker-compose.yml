@@ -1,0 +1,35 @@
+﻿version: '3.9'
+networks:
+  patient-test-network:
+    driver: bridge
+services:
+  postgres_db:
+    container_name: postgres
+    image: postgres:latest
+    restart: always
+    environment:
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: PatientTest
+      POSTGRES_USER: postgres
+    ports:
+      - "5452:5432"
+    networks:
+      - patient-test-network
+  patient_project_cont:
+    container_name: patient_project
+    build:
+      context: .
+      dockerfile: PatientTest.Web/Dockerfile
+    ports:
+      - "8081:80"
+    environment:
+      - ConnectionStrings__PostgreSQL=User ID=postgres;Password=postgres;Server=postgres_db;Port=5432;Database=PatientTest;
+    networks:
+      - patient-test-network
+    depends_on:
+      - postgres_db
+
+
+  
+
+
