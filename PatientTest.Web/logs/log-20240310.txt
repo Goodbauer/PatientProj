@@ -162,3 +162,14 @@ POSITION: 55
 2024-03-10 22:45:37.103 +03:00 [INF] Hosting environment: Development
 2024-03-10 22:45:37.103 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest.Web\
 2024-03-10 22:46:18.327 +03:00 [INF] Application is shutting down...
+2024-03-10 23:00:34.394 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-10 23:00:34.420 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-10 23:00:34.423 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-10 23:00:34.423 +03:00 [INF] Hosting environment: Development
+2024-03-10 23:00:34.423 +03:00 [INF] Content root path: D:\Development\PatientProj\PatientTest.Web\
+2024-03-10 23:01:01.971 +03:00 [INF] Application is shutting down...
+2024-03-10 23:01:06.857 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-10 23:01:06.877 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-10 23:01:06.879 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-10 23:01:06.880 +03:00 [INF] Hosting environment: Development
+2024-03-10 23:01:06.880 +03:00 [INF] Content root path: D:\Development\PatientProj\PatientTest.Web\
