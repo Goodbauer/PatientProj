@@ -2,6 +2,7 @@ using Serilog;
 using PatientTest.Core;
 using PatientTest.Infrastructure;
 
+AppContext.SetSwitch("Npgsql.EnableLegacyTimestampBehavior", true);
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Host.UseSerilog((context, services, configuration) => configuration

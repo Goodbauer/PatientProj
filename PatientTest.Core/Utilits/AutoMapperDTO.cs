@@ -1,4 +1,5 @@
-﻿using System.Runtime.CompilerServices;
+﻿using System.Collections.Specialized;
+using System.Runtime.CompilerServices;
 using AutoMapper;
 using PatientTest.Core.DTOs;
 using PatientTest.Core.Entities;
@@ -12,7 +13,7 @@ public static class AutoMapperDTO
         var config = new MapperConfiguration(config =>
         {
             config.CreateMap<Patient, PatientDTO>()
-                .ForMember(dist => dist.Gender, opt => opt.MapFrom(src => src.GenderTable.Name))
+                .ForMember(dist => dist.Gender, opt => opt.MapFrom(src => src.Gender.Name))
                 .ForMember(dist => dist.Name, opt => opt.MapFrom(src => new PatientNameDTO()
                 {
                     Id = src.Id,
@@ -24,12 +25,12 @@ public static class AutoMapperDTO
         return new Mapper(config).ProjectTo<PatientDTO>(queryable, null).FirstOrDefault();
     }
     
-    public static PatientDTO AutoMapListPatient(Patient patient, List<string> givens)
+    public static PatientDTO AutoMapListPatient(Patient patient, List<string> givens, List<Genders>? genders)
     {
         var config = new MapperConfiguration(config =>
         {
             config.CreateMap<Patient, PatientDTO>()
-                .ForMember(dist => dist.Gender, opt => opt.MapFrom(src => src.GenderTable.Name))
+                .ForMember(dist => dist.Gender, opt => opt.MapFrom(src => genders.Where(a => a.Id == src.GenderId).FirstOrDefault().Name))
                 .ForMember(dist => dist.Name, opt => opt.MapFrom(src => new PatientNameDTO()
                 {
                     Id = src.Id,
@@ -46,10 +47,10 @@ public static class AutoMapperDTO
         var config = new MapperConfiguration(config =>
         {
             config.CreateMap<AddPatientDTO, Patient>()
-                .ForMember(dist => dist.GenderTable, opt => opt.Ignore())
+                .ForMember(dist => dist.Gender, opt => opt.Ignore())
                 .ForMember(dist => dist.Family, opt => opt.MapFrom(src => src.Name.Family))
                 .ForMember(dist => dist.Use, opt => opt.MapFrom(a => a.Name.Use))
-                .ForMember(dist => dist.GenderTableId, opt => opt.MapFrom(a => genderId));
+                .ForMember(dist => dist.GenderId, opt => opt.MapFrom(a => genderId));
                 
         });
         return new Mapper(config).Map<AddPatientDTO, Patient>(patient);
@@ -60,10 +61,10 @@ public static class AutoMapperDTO
         var config = new MapperConfiguration(config =>
         {
             config.CreateMap<PatientDTO, Patient>()
-                .ForMember(dist => dist.GenderTable, opt => opt.Ignore())
+                .ForMember(dist => dist.Gender, opt => opt.Ignore())
                 .ForMember(dist => dist.Family, opt => opt.MapFrom(src => src.Name.Family))
                 .ForMember(dist => dist.Use, opt => opt.MapFrom(a => a.Name.Use))
-                .ForMember(dist => dist.GenderTableId, opt => opt.MapFrom(a => genderId))
+                .ForMember(dist => dist.GenderId, opt => opt.MapFrom(a => genderId))
                 .ForMember(dist => dist.Id, opt => opt.MapFrom(a => a.Name.Id));
                 
         });

@@ -93,13 +93,15 @@ public class PatientService : IPatientService
     {
         var predicate = CreatePredicate(dateParams);
         var listPatients = _patientRepository.GetListResultSpec(p => p.Where(predicate));
+        var gendersIds = listPatients.Select(e => e.GenderId).Distinct();
         var distIdsPatients = listPatients.Select(a => a.Id).ToList();
+        var genders = _gendersRepository.GetListResultSpec(g => g.Where(a => gendersIds.Contains(a.Id))).ToList();
         var givens = _givenRepository.GetListResultSpec(g => g.Where(a => distIdsPatients.Contains(a.PatientId)))
             .ToList();
         List<PatientDTO> returnedItems = new List<PatientDTO>(distIdsPatients.Count);
         foreach (var patient in listPatients)
         {
-            returnedItems.Add(AutoMapperDTO.AutoMapListPatient(patient, givens.Where(a => a.PatientId == patient.Id).Select(p => p.Name).ToList()));
+            returnedItems.Add(AutoMapperDTO.AutoMapListPatient(patient, givens.Where(a => a.PatientId == patient.Id).Select(p => p.Name).ToList(), genders));
         }
 
         return returnedItems;

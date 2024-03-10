@@ -7,3 +7,158 @@
 2024-03-10 18:55:45.603 +00:00 [INF] Application started. Press Ctrl+C to shut down.
 2024-03-10 18:55:45.604 +00:00 [INF] Hosting environment: Development
 2024-03-10 18:55:45.604 +00:00 [INF] Content root path: /app/
+2024-03-10 22:22:22.755 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-10 22:22:22.777 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-10 22:22:22.780 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-10 22:22:22.780 +03:00 [INF] Hosting environment: Development
+2024-03-10 22:22:22.780 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest.Web\
+2024-03-10 22:24:18.264 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-10 22:24:18.287 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-10 22:24:18.287 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-10 22:24:43.930 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-10 22:24:43.930 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-10 22:24:43.930 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-10 22:25:20.890 +03:00 [INF] Application is shutting down...
+2024-03-10 22:26:38.100 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-10 22:26:38.115 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-10 22:26:38.117 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-10 22:26:38.117 +03:00 [INF] Hosting environment: Development
+2024-03-10 22:26:38.117 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest.Web\
+2024-03-10 22:26:45.218 +03:00 [INF] Application is shutting down...
+2024-03-10 22:26:51.413 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-10 22:26:51.428 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-10 22:26:51.430 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-10 22:26:51.430 +03:00 [INF] Hosting environment: Development
+2024-03-10 22:26:51.430 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest.Web\
+2024-03-10 22:27:00.392 +03:00 [ERR] Failed executing DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT p."Id", p."Active", p."BirthDate", p."Family", p."GenderId", p."Use"
+FROM "Patient" AS p
+2024-03-10 22:27:00.482 +03:00 [ERR] An exception occurred while iterating over the results of a query for context type 'PatientTest.Infrastructure.Context'.
+Npgsql.PostgresException (0x80004005): 42703: столбец p.GenderId не существует
+
+POSITION: 55
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|233_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult()
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(Enumerator enumerator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.<>c.<MoveNext>b__21_0(DbContext _, Enumerator enumerator)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+  Exception data:
+    Severity: ОШИБКА
+    SqlState: 42703
+    MessageText: столбец p.GenderId не существует
+    Position: 55
+    File: parse_relation.c
+    Line: 3718
+    Routine: errorMissingColumn
+Npgsql.PostgresException (0x80004005): 42703: столбец p.GenderId не существует
+
+POSITION: 55
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|233_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult()
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(Enumerator enumerator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.<>c.<MoveNext>b__21_0(DbContext _, Enumerator enumerator)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+  Exception data:
+    Severity: ОШИБКА
+    SqlState: 42703
+    MessageText: столбец p.GenderId не существует
+    Position: 55
+    File: parse_relation.c
+    Line: 3718
+    Routine: errorMissingColumn
+2024-03-10 22:27:00.487 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+Npgsql.PostgresException (0x80004005): 42703: столбец p.GenderId не существует
+
+POSITION: 55
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|233_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult()
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(Enumerator enumerator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.<>c.<MoveNext>b__21_0(DbContext _, Enumerator enumerator)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+   at PatientTest.Core.Services.PatientService.ListAll(List`1 dateParams) in D:\Development\PatientTest\PatientTest.Core\Services\PatientService.cs:line 100
+   at PatientTest.Controllers.PatientController.GetAll(String[] datesFilters) in D:\Development\PatientTest\PatientTest.Web\Controllers\PatientController.cs:line 24
+   at lambda_method37(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+  Exception data:
+    Severity: ОШИБКА
+    SqlState: 42703
+    MessageText: столбец p.GenderId не существует
+    Position: 55
+    File: parse_relation.c
+    Line: 3718
+    Routine: errorMissingColumn
+2024-03-10 22:27:39.000 +03:00 [INF] Application is shutting down...
+2024-03-10 22:27:51.904 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-10 22:27:51.920 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-10 22:27:51.923 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-10 22:27:51.923 +03:00 [INF] Hosting environment: Development
+2024-03-10 22:27:51.923 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest.Web\
+2024-03-10 22:28:09.157 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-10 22:28:09.170 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-10 22:28:09.170 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-10 22:30:07.480 +03:00 [INF] Application is shutting down...
+2024-03-10 22:38:49.667 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-10 22:38:49.684 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-10 22:38:49.686 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-10 22:38:49.686 +03:00 [INF] Hosting environment: Development
+2024-03-10 22:38:49.686 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest.Web\
+2024-03-10 22:40:17.666 +03:00 [INF] Deleted: PatientTest.Core.Entities.Given
+2024-03-10 22:40:17.667 +03:00 [INF] Deleted: PatientTest.Core.Entities.Given
+2024-03-10 22:40:17.681 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-10 22:40:17.681 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-10 22:40:17.730 +03:00 [INF] Update: PatientTest.Core.Entities.Patient
+2024-03-10 22:40:17.736 +03:00 [INF] Updated to : PatientTest.Core.Entities.Patient
+2024-03-10 22:40:52.136 +03:00 [INF] Deleting: PatientTest.Core.Entities.Patient
+2024-03-10 22:40:52.137 +03:00 [INF] Deleted
+2024-03-10 22:41:27.812 +03:00 [INF] Created: PatientTest.Core.Entities.Patient
+2024-03-10 22:41:27.817 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-10 22:41:27.817 +03:00 [INF] Created: PatientTest.Core.Entities.Given
+2024-03-10 22:44:59.083 +03:00 [INF] Application is shutting down...
+2024-03-10 22:45:37.084 +03:00 [INF] Now listening on: https://localhost:7148
+2024-03-10 22:45:37.100 +03:00 [INF] Now listening on: http://localhost:5128
+2024-03-10 22:45:37.103 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-10 22:45:37.103 +03:00 [INF] Hosting environment: Development
+2024-03-10 22:45:37.103 +03:00 [INF] Content root path: D:\Development\PatientTest\PatientTest.Web\
+2024-03-10 22:46:18.327 +03:00 [INF] Application is shutting down...
